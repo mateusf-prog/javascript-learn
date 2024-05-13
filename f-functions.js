@@ -28,3 +28,12 @@ function soma(a, b) {
 console.log(soma(20, 5.5))
 
 
+/** Exercícío --
+ * Escrever uma função que usa 2 números e retorna o maior entre eles
+ */
+
+function maiorNumero(a, b) {
+     return a > b ? a : b
+}
+
+console.log(maiorNumero(5, 5))
