@@ -1,4 +1,4 @@
-// Clonar objetos em JS
+// Clonar objetos em JS utilizando Object e Spread operator
 
 const celular ={
      marca: 'Apple',
